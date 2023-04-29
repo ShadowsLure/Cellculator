@@ -24,7 +24,7 @@ You may opt out by Removing the bot from any Server you have the rights for.
 
 ## Contact
 People may get in contact through e-mail at sh4dowslure@gmail.com, or through the official Support Discord of the Bot. The official Support Discord of the bot is in itself a community which is based around the bot. The server will not only post updates about the bot but also updates based on it's community.
-Other ways of support may be provided but aren't guaranteed.
+Other ways of support may be provided but aren't guaranteed. We will do our best to address your concerns in a timely and satisfactory manner.
 
 
 # Privacy Policy
