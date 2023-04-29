@@ -1,2 +1,3 @@
 # Cellculator
-Source code of cellculator!
+
+Here, contains the ToS and Privacy Policy page for Cellculator
