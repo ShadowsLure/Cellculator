@@ -3,16 +3,12 @@
 
 ## Usage Agreement
 
-By inviting the bot (Cellculator #3558) and using its features (commands) are you agreeing to the below mentioned Terms and Privacy Policy (Policy) of the bot.
+By inviting Cellculator #3558 (the "Bot") and using its features (commands), you agree to the following Terms and Privacy Policy (the "Policy"). You acknowledge that you have the privilege to use the Bot freely on any Discord Server (the "Server") you share with it, and that you can invite it to any Server that you have "Manage Server" rights for. However, this privilege may be revoked if you violate the terms and/or policy of the Bot, or the Terms of Service, Privacy Policy, and/or Community Guidelines of Discord Inc.
 
-You acknowledge that you have the priviledge to use the bot freely on any Discord Server (Server) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you're subject of breaking the terms and/or policy of this bot, or the Terms of Service, Privacy Policy and/or Community Guidelines of Discord Inc.
-
-Through Inviting the bot may it collect specific data as described in its Policy.
-The intended usage of this data is for core functionalities of the bot such as command handling.
+When you invite the Bot, it may collect certain data as described in its Policy. This data is intended to be used for core functionalities of the Bot, such as command handling.
 
 ## Intended Age
-The bot may not be used by individuals under the minimal age described in Discord's Terms of Service.
-The bot does not contain any NSFW based age requirement based commands.
+The Bot may not be used by individuals under the minimum age described in Discord's Terms of Service. The Bot does not contain any NSFW-based age requirement-based commands
 
 ## Affiliation
 The Bot is not affiliated with, supported or made by Discord Inc.
@@ -27,7 +23,7 @@ You may opt out by Removing the bot from any Server you have the rights for.
 
 
 ## Contact
-People may get in contact through e-mail at sh4dowslure@gmail.com, or through the official Support Discord of the Bot.
+People may get in contact through e-mail at sh4dowslure@gmail.com, or through the official Support Discord of the Bot. The official Support Discord of the bot is in itself a community which is based around the bot. The server will not only post updates about the bot but also updates based on it's community.
 Other ways of support may be provided but aren't guaranteed.
 
 
@@ -55,12 +51,12 @@ No other information outside of the above mentioned one will be stored.
 No such data is stored that requires updation by the user. However, the user may request the data for deletion.
 
 ## Temporarely stored Information
-The bot may store the following information on it's cached memory while the command is processing:
+The Bot may store the following information on its cached memory while the command is processing:
 
-1. username with the username of the User as the value
-2. profile_link with the link of the profile picture as the value
-3. nick with the nickname of the user in the server as the value
-No other information is stored on the cache. These data will be dropped once the command is succesfully executed (or failed).
+1. User's username
+2. Link of the user's profile picture
+3. User's nickname in the Server
+No other information is stored on the cache. This data will be dropped once the command is successfully executed (or failed).
 
 
 ## Removal of Data
