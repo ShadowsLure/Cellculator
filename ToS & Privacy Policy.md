@@ -16,7 +16,7 @@ Any direct connection to Discord or any of its Trademark objects is purely coinc
 
 ## Liability
 The owner of the bot may not be made liable for individuals breaking these Terms at any given time.
-He has faith in the end users being truthfull about their information and not missusing this bot or The Services of Discord Inc in a malicious way.
+He has faith in the end users being truthful about their information and not misusing this bot or The Services of Discord Inc in a malicious way.
 
 We reserve the right to update these terms at our own discretion (not only the ToS, but also the different variables that are stored by the bot), giving you a 1-Week (7 days) period to opt out of these terms if you're not agreeing with the new changes.
 You may opt out by Removing the bot from any Server you have the rights for.
@@ -42,8 +42,8 @@ No other information outside of the above mentioned one will be stored.
 
 The bot also stores the following information when the command `/braincells-count` is used:
 
-1. user_id with a User's ID as value
-2. time_used with a time of using the command as value.
+1. `user_id` with a User's ID as value
+2. `time_used` with a time of using the command as value.
 
 No other information outside of the above mentioned one will be stored. 
 
