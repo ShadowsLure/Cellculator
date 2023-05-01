@@ -36,8 +36,8 @@ No usage of data outside of the aformentioned cases will happen and the data is 
 ## Stored Information
 The bot may store the following information automatically when being invited to a new Discord Server:
 
-1. id with the Server's ID as value.
-2. language with value en
+1. `id` with the Server's ID as value.
+2. `language` with value `en`
 No other information outside of the above mentioned one will be stored.
 
 The bot also stores the following information when the command `/braincells-count` is used:
