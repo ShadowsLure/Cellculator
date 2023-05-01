@@ -44,8 +44,8 @@ The bot also stores the following information when the command `/braincells-coun
 
 1. user_id with a User's ID as value
 2. time_used with a time of using the command as value.
-No other information outside of the above mentioned one will be stored. 
 
+No other information outside of the above mentioned one will be stored. 
 
 ## Updating Data
 No such data is stored that requires updation by the user. However, the user may request the data for deletion.
@@ -57,7 +57,6 @@ The Bot may store the following information on its cached memory while the comma
 2. Link of the user's profile picture
 3. User's nickname in the Server
 No other information is stored on the cache. This data will be dropped once the command is successfully executed (or failed).
-
 
 ## Removal of Data
 ### Automatic removal
