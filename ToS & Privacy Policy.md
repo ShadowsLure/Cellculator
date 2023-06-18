@@ -40,7 +40,7 @@ The bot may store the following information automatically when being invited to 
 2. `language` with value `en`
 No other information outside of the above mentioned one will be stored.
 
-The bot also stores the following information when the command `/braincells-count` is used:
+The bot also stores the following information when the command `/brain cell count` is used:
 
 1. `user_id` with a User's ID as value
 2. `time_used` with a time of using the command as value.
