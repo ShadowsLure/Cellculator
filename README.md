@@ -19,11 +19,11 @@ Yeah, Cellculator was in action before but some recent events led to it's deleti
 So, I will be starting again but this time I am making this project available to you too!
 
 # Try out the bot yourself!
-Invite link to invite Cellculator to your server : (Invite Cellculator)[https://discord.com/api/oauth2/authorize?client_id=1127966026752086076&permissions=275348057152&scope=bot%20applications.commands] 
+Invite link to invite Cellculator to your server : [Invite Cellculator](https://discord.com/api/oauth2/authorize?client_id=1127966026752086076&permissions=275348057152&scope=bot%20applications.commands) 
 Please don't lose your cool with the bot!
 
 ## Contacts
-You can either reach me on (Github)[https://github.com/ShadowsLure] itself or DM me on (Discord)[discord.com] (@sh4dowslure) or email me at sh4dowslure@gmail.com
+You can either reach me on [Github](https://github.com/ShadowsLure) itself or DM me on [Discord](discord.com) (@sh4dowslure) or email me at sh4dowslure@gmail.com
 
 ## Some other important points
 - I am not a proffesional developer, I am just python enthusiast who happen to study python in his highschool.
