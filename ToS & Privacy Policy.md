@@ -48,9 +48,9 @@ The bot also stores the following information when the command `/brain cell coun
 No other information outside of the above mentioned one will be stored. 
 
 ## Updating Data
-No such data is stored that requires updation by the user. However, the user may request the data for deletion.
+No such data is stored that requires update by the user. However, the user may request the data for deletion.
 
-## Temporarely stored Information
+## Temporarily stored Information
 The Bot may store the following information on its cached memory while the command is processing:
 
 1. User's username
